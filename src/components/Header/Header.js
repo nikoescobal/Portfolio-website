@@ -1,6 +1,11 @@
 import Link from "next/link";
 import React from "react";
-import { AiFillGithub, AiFillInstagram, AiFillLinkedin } from "react-icons/ai";
+import {
+  AiFillGithub,
+  AiFillLinkedin,
+  AiFillMediumCircle,
+} from "react-icons/ai";
+import { GrSoundcloud, GrTwitter } from "react-icons/gr";
 import { DiCssdeck } from "react-icons/di";
 
 import {
@@ -10,14 +15,22 @@ import {
   Div3,
   NavLink,
   SocialIcons,
+  Span,
 } from "./HeaderStyles";
 
 const Header = () => (
   <Container>
     <Div1>
       <Link href='/'>
-        <a style={{ display: "flex", alignItems: "center", color: "white" }}>
-          <DiCssdeck size='3rem'></DiCssdeck> <span>Portfolio</span>
+        <a
+          style={{
+            display: "flex",
+            alignItems: "center",
+            color: "white",
+            marginBottom: 20,
+          }}
+        >
+          <DiCssdeck size='3rem'></DiCssdeck> <Span>Portfolio</Span>
         </a>
       </Link>
     </Div1>
@@ -44,6 +57,15 @@ const Header = () => (
       </SocialIcons>
       <SocialIcons href='https://www.linkedin.com/in/nikolas-escobal/'>
         <AiFillLinkedin size='3rem'></AiFillLinkedin>
+      </SocialIcons>
+      <SocialIcons href='https://soundcloud.com/nikoesco'>
+        <GrSoundcloud size='3rem'></GrSoundcloud>
+      </SocialIcons>
+      <SocialIcons href='https://soundcloud.com/nikoesco'>
+        <GrTwitter size='3rem'></GrTwitter>
+      </SocialIcons>
+      <SocialIcons href='https://nikoescobal.medium.com/'>
+        <AiFillMediumCircle size='3rem'></AiFillMediumCircle>
       </SocialIcons>
     </Div3>
   </Container>
