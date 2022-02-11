@@ -1,5 +1,15 @@
 export const projects = [
   {
+    title: "Rentcopter",
+    description:
+      "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS. Visit site: ",
+    image: "/images/rentcopter.jpeg",
+    tags: ["React", "Rails", "Tailwind", "PG"],
+    source: "https://github.com/nikoescobal/rentcopter",
+    visit: "https://rentcopter.netlify.app/",
+    id: 0,
+  },
+  {
     title: "Bistro Ferdinand",
     description:
       "Restaurant website built with ES6 modules, Tailwind CSS and Webpack. In this project, I designed and built an aesthetic, fully-responsive website for an original restaurant brand, Bistro Ferdinand, a place where people can eat, drink, and indulge.",
@@ -8,27 +18,7 @@ export const projects = [
     source: "https://github.com/nikoescobal/JS-Restaurant",
     visit:
       "https://raw.githack.com/nikoescobal/JS-Restaurant/feature/dist/index.html",
-    id: 0,
-  },
-  {
-    title: "Rentcopter",
-    description:
-      "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS. Visit site: ",
-    image: "/images/rentcopter.jpeg",
-    tags: ["React", "Rails", "Tailwind", "PG"],
-    source: "https://github.com/nikoescobal/rentcopter",
-    visit: "https://rentcopter.netlify.app/",
     id: 1,
-  },
-  {
-    title: "Custom CSS Linter",
-    description:
-      "A customized CSS linter built with Ruby. The objective of this project was to demonstrate mastery of key concepts in Ruby and OOP (object-oriented-programming) by utilizing classes, methods, and the accessing of attributes.",
-    image: "/images/ruby-linter.png",
-    tags: ["Ruby"],
-    source: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
-    visit: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
-    id: 2,
   },
   {
     title: "CoffeeCon",
@@ -38,6 +28,16 @@ export const projects = [
     tags: ["HTML", "CSS", "Bootstrap", "Sass"],
     source: "https://github.com/nikoescobal/COFFEECON2020",
     visit: "https://coffeecon2020.netlify.app/",
+    id: 2,
+  },
+  {
+    title: "Custom CSS Linter",
+    description:
+      "A customized CSS linter built with Ruby. The objective of this project was to demonstrate mastery of key concepts in Ruby and OOP (object-oriented-programming) by utilizing classes, methods, and the accessing of attributes.",
+    image: "/images/ruby-linter.png",
+    tags: ["Ruby"],
+    source: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
+    visit: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
     id: 3,
   },
   {
@@ -48,7 +48,7 @@ export const projects = [
     tags: ["React", "Redux", "Tailwind"],
     source: "https://github.com/nikoescobal/react-redux-project",
     visit: "https://myheroacademydb.netlify.app/",
-    id: 2,
+    id: 4,
   },
   {
     title: "SpaceX API Demo",
@@ -58,7 +58,7 @@ export const projects = [
     tags: ["React", "Redux", "Tailwind"],
     source: "https://github.com/nikoescobal/space-travelers",
     visit: "https://spacexapi-demo.netlify.app/",
-    id: 3,
+    id: 5,
   },
 ];
 
