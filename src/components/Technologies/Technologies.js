@@ -1,37 +1,10 @@
 import React from "react";
-import {
-  DiJavascript1,
-  DiSass,
-  DiReact,
-  DiRubyRough,
-  DiHtml5,
-  DiCss3,
-  DiBootstrap,
-  DiVisualstudio,
-} from "react-icons/di";
-import {
-  SiTailwindcss,
-  SiRubyonrails,
-  SiMysql,
-  SiPostgresql,
-  SiHtml5,
-  SiCss3,
-  SiBootstrap,
-  SiGithub,
-  SiRedux,
-  SiPostcss,
-  SiWebpack,
-  SiBabel,
-  SiJest,
-  SiGraphql,
-  SiHeroku,
-  SiNetlify,
-  SiGatsby,
-  SiNextdotjs,
-  SiSqlite,
-  SiPostman,
-  SiFigma,
-} from "react-icons/si";
+
+import TechnologiesFrontEndLogos from "./TechnologiesFrontEndLogos";
+import TechnologiesBackEndLogos from "./TechnologiesBackEndLogos";
+
+import { DiReact, DiVisualstudio } from "react-icons/di";
+import { SiRubyonrails } from "react-icons/si";
 import { FaNode } from "react-icons/fa";
 
 import {
@@ -49,8 +22,6 @@ import {
   ListTitle,
 } from "./TechnologiesStyles";
 
-import TechnologiesFrontEndLogos from "./TechnologiesFrontEndLogos";
-
 const Technologies = () => (
   <Section id='tech'>
     <SectionDivider />
@@ -58,15 +29,14 @@ const Technologies = () => (
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
       I've worked with a range of technologies in the web development world.
-      From Back-end to Design
+      From Front-End, to Back-end, to Design.
     </SectionText>
     <List>
       <ListItem>
-        <LogoContainer>
-          <DiReact size='3rem'></DiReact>
-        </LogoContainer>
+        <DiReact size='3rem'></DiReact>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
+          <ListParagraph>Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesFrontEndLogos />
           </LogoContainer>
@@ -74,8 +44,13 @@ const Technologies = () => (
       </ListItem>
       <ListItem>
         <SiRubyonrails size='3rem'></SiRubyonrails>
-        <ListTitle>Back-end</ListTitle>
-        <ListParagraph>Experience with React.js and Tailwind</ListParagraph>
+        <ListContainer>
+          <ListTitle>Back-end</ListTitle>
+          <ListParagraph>Stack:</ListParagraph>
+          <LogoContainer>
+            <TechnologiesBackEndLogos />
+          </LogoContainer>
+        </ListContainer>
       </ListItem>
       <ListItem>
         <DiVisualstudio size='3rem'></DiVisualstudio>
