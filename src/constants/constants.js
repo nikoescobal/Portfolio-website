@@ -15,7 +15,7 @@ export const projects = [
     description:
       "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS. Visit site: ",
     image: "/images/rentcopter.jpeg",
-    tags: ["JavaScript", "React", "Ruby", "Rails", "TailwindCSS", "PostgreSQL"],
+    tags: ["React", "Ruby", "Rails", "TailwindCSS", "PostgreSQL"],
     source: "https://github.com/nikoescobal/rentcopter",
     visit: "https://rentcopter.netlify.app/",
     id: 1,
@@ -24,7 +24,7 @@ export const projects = [
     title: "Custom CSS Linter",
     description:
       "A customized CSS linter built with Ruby. The objective of this project was to demonstrate mastery of key concepts in Ruby and OOP (object-oriented-programming) by utilizing classes, methods, and the accessing of attributes.",
-    image: "/images/3.jpg",
+    image: "/images/ruby-linter.png",
     tags: ["Ruby"],
     source: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
     visit: "https://github.com/nikoescobal/Custom-Ruby-Linter/tree/feature",
@@ -45,7 +45,7 @@ export const projects = [
     description:
       "In this project, I built a SPA (single-page-application) with React and Redux, where users can view a database of characters from the popular anime, My Hero Academia. Upon clicking on each profile, viewers will be able to see the character's data, such as their name, affiliation, gender, quirk, etc.",
     image: "/images/myherodb-2.png",
-    tags: ["React, Redux, TailwindCSS"],
+    tags: ["React", "Redux", "TailwindCSS"],
     source: "https://github.com/nikoescobal/react-redux-project",
     visit: "https://myheroacademydb.netlify.app/",
     id: 2,
