@@ -29,17 +29,23 @@ const Projects = () => (
         ({ id, image, title, description, tags, source, visit }) => (
           <BlogCard key={id}>
             <Img src={image} />
-            <TitleContent>
-              <HeaderThree title>{title}</HeaderThree>
-              <Hr />
-            </TitleContent>
-            <CardInfo>{description}</CardInfo>
-            <TitleContent>Stack</TitleContent>
-            <TagList>
-              {tags.map((tag, i) => (
-                <Tag key={i}>{tag}</Tag>
-              ))}
-            </TagList>
+            <div>
+              <TitleContent>
+                <HeaderThree title>{title}</HeaderThree>
+                <Hr />
+              </TitleContent>
+              <CardInfo>{description}</CardInfo>
+              <TitleContent>Stack</TitleContent>
+              <TagList>
+                {tags.map((tag, i) => (
+                  <Tag key={i}>{tag}</Tag>
+                ))}
+              </TagList>
+            </div>
+            <UtilityList>
+              <ExternalLinks href={visit}>Code</ExternalLinks>
+              <ExternalLinks href={source}>Code</ExternalLinks>
+            </UtilityList>
           </BlogCard>
         )
       )}

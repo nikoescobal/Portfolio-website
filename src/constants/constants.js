@@ -4,7 +4,7 @@ export const projects = [
     description:
       "Restaurant website built with ES6 modules, Tailwind CSS and Webpack. In this project, I designed and built an aesthetic, fully-responsive website for an original restaurant brand, Bistro Ferdinand, a place where people can eat, drink, and indulge.",
     image: "/images/bistro-ferdinand.png",
-    tags: ["JavaScript", "TailwindCSS", "ES6", "Webpack"],
+    tags: ["JavaScript", "Tailwind", "Webpack"],
     source: "https://github.com/nikoescobal/JS-Restaurant",
     visit:
       "https://raw.githack.com/nikoescobal/JS-Restaurant/feature/dist/index.html",
@@ -15,7 +15,7 @@ export const projects = [
     description:
       "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS. Visit site: ",
     image: "/images/rentcopter.jpeg",
-    tags: ["React", "Ruby", "Rails", "TailwindCSS", "PostgreSQL"],
+    tags: ["React", "Rails", "Tailwind", "PG"],
     source: "https://github.com/nikoescobal/rentcopter",
     visit: "https://rentcopter.netlify.app/",
     id: 1,
@@ -45,7 +45,7 @@ export const projects = [
     description:
       "In this project, I built a SPA (single-page-application) with React and Redux, where users can view a database of characters from the popular anime, My Hero Academia. Upon clicking on each profile, viewers will be able to see the character's data, such as their name, affiliation, gender, quirk, etc.",
     image: "/images/myherodb-2.png",
-    tags: ["React", "Redux", "TailwindCSS"],
+    tags: ["React", "Redux", "Tailwind"],
     source: "https://github.com/nikoescobal/react-redux-project",
     visit: "https://myheroacademydb.netlify.app/",
     id: 2,
@@ -55,7 +55,7 @@ export const projects = [
     description:
       "The SpaceX API is being used here to populate data in this project using Axios. The concept is a space travelers built application built with React, Redux, and TailwindCSS, where users can navigate between different tabs - Rockets, Missions, and Dragons. Users can view missions as well as reserve rockets and dragons. ",
     image: "/images/spacexapp.png",
-    tags: ["React", "Redux", "TailwindCSS", "Axios"],
+    tags: ["React", "Redux", "Tailwind"],
     source: "https://github.com/nikoescobal/space-travelers",
     visit: "https://spacexapi-demo.netlify.app/",
     id: 3,
