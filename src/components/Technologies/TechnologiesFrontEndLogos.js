@@ -84,6 +84,20 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Agatsby'>
+        <img
+          alt='Gatsby'
+          src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white
+'
+        />
+      </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Anext'>
+        <img
+          alt='Next'
+          src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+'
+        />
+      </a>
     </div>
   );
 };
