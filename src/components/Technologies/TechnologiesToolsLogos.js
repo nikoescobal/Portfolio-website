@@ -36,10 +36,10 @@ const TechnologiesToolsLogos = () => {
 '
         />
       </a>
-      <a href='https://codepen.com/'>
+      <a href='https://rspec.info/'>
         <img
-          alt='Codepen'
-          src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+          alt='Rspec'
+          src='https://img.shields.io/badge/Rspec-ec2861?style=for-the-badge&logo=ruby&logoColor=white
 '
         />
       </a>
@@ -64,17 +64,17 @@ const TechnologiesToolsLogos = () => {
 '
         />
       </a>
-      <a href='https://rspec.info/'>
-        <img
-          alt='Rspec'
-          src='https://img.shields.io/badge/Rspec-ec2861?style=for-the-badge&logo=ruby&logoColor=white
-'
-        />
-      </a>
       <a href='https://zoom.us/'>
         <img
           alt='Zoom'
           src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white'
+        />
+      </a>
+      <a href='https://codepen.com/'>
+        <img
+          alt='Codepen'
+          src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+'
         />
       </a>
     </div>

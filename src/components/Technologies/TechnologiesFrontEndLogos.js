@@ -70,10 +70,10 @@ const TechnologiesFrontEndLogos = () => {
           src='https://img.shields.io/badge/Webpack-8ccbf3?style=for-the-badge&logo=webpack&logoColor=white'
         />
       </a>
-      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Aredux'>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Agatsby'>
         <img
-          alt='Redux'
-          src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+          alt='Gatsby'
+          src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white
 '
         />
       </a>
@@ -84,17 +84,17 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Agatsby'>
-        <img
-          alt='Gatsby'
-          src='https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white
-'
-        />
-      </a>
       <a href='https://github.com/search?q=user%3Anikoescobal+language%3Anext'>
         <img
           alt='Next'
           src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
+'
+        />
+      </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Aredux'>
+        <img
+          alt='Redux'
+          src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
 '
         />
       </a>
