@@ -2,6 +2,7 @@ import React from "react";
 
 import TechnologiesFrontEndLogos from "./TechnologiesFrontEndLogos";
 import TechnologiesBackEndLogos from "./TechnologiesBackEndLogos";
+import TechnologiesToolsLogos from "./TechnologiesToolsLogos";
 
 import { DiReact, DiVisualstudio } from "react-icons/di";
 import { SiRubyonrails } from "react-icons/si";
@@ -36,7 +37,7 @@ const Technologies = () => (
         <DiReact size='3rem'></DiReact>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
-          <ListParagraph>Stack:</ListParagraph>
+          <ListParagraph>Dev Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesFrontEndLogos />
           </LogoContainer>
@@ -46,7 +47,7 @@ const Technologies = () => (
         <SiRubyonrails size='3rem'></SiRubyonrails>
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
-          <ListParagraph>Stack:</ListParagraph>
+          <ListParagraph>Dev Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesBackEndLogos />
           </LogoContainer>
@@ -55,16 +56,11 @@ const Technologies = () => (
       <ListItem>
         <DiVisualstudio size='3rem'></DiVisualstudio>
         <ListContainer>
-          <ListTitle>Tools</ListTitle>
-          <ListParagraph>
-            {" "}
-            <a href='#'>
-              <img
-                alt='PostgreSQL'
-                src='https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white'
-              />
-            </a>
-          </ListParagraph>
+          <ListTitle>Software & Tools:</ListTitle>
+          <ListParagraph>Tool Stack:</ListParagraph>
+          <LogoContainer>
+            <TechnologiesToolsLogos />
+          </LogoContainer>
         </ListContainer>
       </ListItem>
     </List>

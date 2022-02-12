@@ -15,11 +15,10 @@ const TechnologiesBackEndLogos = () => {
           src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'
         />
       </a>
-      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Amysql'>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Amaterial%3Aheroku'>
         <img
-          alt='Mysql'
-          src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
-
+          alt='Heroku'
+          src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
 '
         />
       </a>
@@ -30,13 +29,15 @@ const TechnologiesBackEndLogos = () => {
 '
         />
       </a>
-      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Amaterial%3Aheroku'>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Amysql'>
         <img
-          alt='Heroku'
-          src='https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white
+          alt='Graphql'
+          src='https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white
+
 '
         />
       </a>
+
       <a href='https://github.com/search?q=user%3Anikoescobal+language%3Anetlify'>
         <img
           alt='Netlify'
@@ -48,6 +49,23 @@ const TechnologiesBackEndLogos = () => {
         <img
           alt='Nodejs'
           src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
+'
+        />
+      </a>
+
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Amysql'>
+        <img
+          alt='Mysql'
+          src='https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
+
+'
+        />
+      </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Afirebase'>
+        <img
+          alt='Mysql'
+          src='https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white
+
 '
         />
       </a>

@@ -51,10 +51,10 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Aredux'>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Astyled%3Ababel'>
         <img
-          alt='Redux'
-          src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+          alt='Babel'
+          src='https://img.shields.io/badge/Babel-eccc04?style=for-the-badge&logo=babel&logoColor=white
 '
         />
       </a>
@@ -62,6 +62,19 @@ const TechnologiesFrontEndLogos = () => {
         <img
           alt='JavaScript'
           src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'
+        />
+      </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Awebpack'>
+        <img
+          alt='Webpack'
+          src='https://img.shields.io/badge/Webpack-8ccbf3?style=for-the-badge&logo=webpack&logoColor=white'
+        />
+      </a>
+      <a href='https://github.com/search?q=user%3Anikoescobal+language%3Aredux'>
+        <img
+          alt='Redux'
+          src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+'
         />
       </a>
       <a href='https://github.com/search?q=user%3Anikoescobal+language%3Astyled%3Acomponents'>
