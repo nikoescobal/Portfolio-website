@@ -29,7 +29,7 @@ const Hero = () => (
           (window.location = "mailto:niko@nikoescobal.com?subject=Hey Niko!")
         }
       >
-        Learn More
+        Get in Touch
       </Button>
     </LeftSection>
   </Section>
