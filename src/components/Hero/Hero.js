@@ -18,18 +18,18 @@ const Hero = () => (
           width='28'
         />
         <br />
-        Philomath, sushi-lover, musician.
+        Full Stack Dev. Musician.
       </SectionTitle>
       <SectionText>
-        I’m a full-stack developer passionate about building meaningful tech
-        solutions to real problems.
+        React and Rails enthusiast with an eye for good design. I love
+        meaningful tech, making music, learning new things, and sushi.
       </SectionText>
       <Button
         onClick={() =>
           (window.location = "mailto:niko@nikoescobal.com?subject=Hey Niko!")
         }
       >
-        Get in Touch
+        Hire Me!
       </Button>
     </LeftSection>
   </Section>

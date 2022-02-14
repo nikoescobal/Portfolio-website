@@ -63,16 +63,37 @@ export const projects = [
 ];
 
 export const TimeLineData = [
-  { year: 2017, text: "Started my journey" },
-  { year: 2018, text: "Worked as a freelance developer" },
-  { year: 2019, text: "Founded JavaScript Mastery" },
-  { year: 2020, text: "Shared my projects with the world" },
-  { year: 2021, text: "Started my own platform" },
+  {
+    year: 2015,
+    text: "Delved into the world of tech startups and founded my first startup.",
+  },
+  {
+    year: 2016,
+    text: "Worked as a consultant for startups in fintech and AI.",
+  },
+  {
+    year: 2020,
+    text: "Took a leap of faith - quit my startup and started my career shift into tech.",
+  },
+  {
+    year: 2020,
+    text: "Started learning how to code and was accepted into Microverse, a global and online coding school.",
+  },
+  {
+    year: 2022,
+    text: "Built multiple projects, completed the program, and started freelancing.",
+  },
 ];
 
 export const data = [
-  { number: 20, text: "Open Source Projects" },
-  { number: 1000, text: "Students" },
-  { number: 1900, text: "Github Followers" },
-  { number: 5000, text: "Github Stars" },
+  {
+    number: "Damien Kan",
+    text: "Founding team at Alto. Co-founded Shogun, Kin.",
+  },
+  { number: "Claudio Wilson", text: "Senior Engineer at AirBnb." },
+  {
+    number: "Madison Kanna",
+    text: "Founder, CodeBookClub. UI Engineer at Showcase IDX.",
+  },
+  { number: "Albert Padin", text: "Co-Founder and CTO at Symph." },
 ];

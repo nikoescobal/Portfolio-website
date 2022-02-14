@@ -61,12 +61,6 @@ const Header = () => (
       <SocialIcons href='https://soundcloud.com/nikoesco'>
         <GrSoundcloud size='3rem'></GrSoundcloud>
       </SocialIcons>
-      <SocialIcons href='https://soundcloud.com/nikoesco'>
-        <GrTwitter size='3rem'></GrTwitter>
-      </SocialIcons>
-      <SocialIcons href='https://nikoescobal.medium.com/'>
-        <AiFillMediumCircle size='3rem'></AiFillMediumCircle>
-      </SocialIcons>
     </Div3>
   </Container>
 );
