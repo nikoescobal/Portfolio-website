@@ -90,7 +90,7 @@ export const data = [
     number: "Damien Kan",
     text: "Founding team at Alto. Co-founded Shogun, Kin.",
   },
-  { number: "Claudio Wilson", text: "Senior Engineer at AirBnb." },
+  { number: "Claudio Wilson", text: "Senior Software Engineer at AirBnb." },
   {
     number: "Madison Kanna",
     text: "Founder, CodeBookClub. UI Engineer at Showcase IDX.",
