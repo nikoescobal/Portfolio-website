@@ -132,13 +132,6 @@ export const LinkList = styled.ul`
   }
 `;
 
-export const FooterFormContainer = styled.div`
-  display: flex;
-  flex-direction: column;
-  padding: 2px;
-  justify-content: center;
-`;
-
 export const LinkColumn = styled.div`
   display: flex;
   flex-direction: column;
