@@ -33,14 +33,14 @@ const Footer = () => {
           </LinkItem>
         </LinkColumn>
       </LinkList>
+      <CompanyContainer>
+        <Slogan>
+          If you have an application you're interested in developing, a feature
+          that needs building, or a project that needs coding, look no further -
+          I'm your guy!
+        </Slogan>
+      </CompanyContainer>
       <SocialIconsContainer>
-        <CompanyContainer>
-          <Slogan>
-            If you have an application you're interested in developing, a
-            feature that needs building, or a project that needs coding, look no
-            further - I'm your guy!
-          </Slogan>
-        </CompanyContainer>
         <SocialIcons href='https://www.linkedin.com/in/nikolas-escobal/'>
           <AiFillLinkedin size='3rem'></AiFillLinkedin>
         </SocialIcons>

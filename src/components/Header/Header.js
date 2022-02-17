@@ -6,7 +6,7 @@ import {
   AiFillMediumCircle,
 } from "react-icons/ai";
 import { GrSoundcloud, GrTwitter } from "react-icons/gr";
-import { DiCssdeck } from "react-icons/di";
+import { GiCurlyWing } from "react-icons/gi";
 
 import {
   Container,
@@ -30,7 +30,7 @@ const Header = () => (
             marginBottom: 20,
           }}
         >
-          <DiCssdeck size='3rem'></DiCssdeck> <Span>Portfolio</Span>
+          <GiCurlyWing size='3rem'></GiCurlyWing> <Span> o</Span>
         </a>
       </Link>
     </Div1>

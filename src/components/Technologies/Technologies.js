@@ -37,6 +37,7 @@ const Technologies = () => (
         <DiReact size='3rem'></DiReact>
         <ListContainer>
           <ListTitle>Front-end</ListTitle>
+          <br />
           <ListParagraph>Dev Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesFrontEndLogos />
@@ -47,6 +48,7 @@ const Technologies = () => (
         <SiRubyonrails size='3rem'></SiRubyonrails>
         <ListContainer>
           <ListTitle>Back-end</ListTitle>
+          <br />
           <ListParagraph>Dev Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesBackEndLogos />
@@ -57,6 +59,7 @@ const Technologies = () => (
         <DiVisualstudio size='3rem'></DiVisualstudio>
         <ListContainer>
           <ListTitle>Software & Tools:</ListTitle>
+          <br />
           <ListParagraph>Tool Stack:</ListParagraph>
           <LogoContainer>
             <TechnologiesToolsLogos />
