@@ -8,7 +8,7 @@ import {
   SectionTitle,
   SectionText,
 } from "../../styles/GlobalComponents";
-import { Box, Boxes, BoxNum, BoxText } from "./MentorsStyles";
+import { Box, Boxes, BoxName, BoxText } from "./MentorsStyles";
 
 const Mentors = () => (
   <Section>
@@ -22,7 +22,14 @@ const Mentors = () => (
     <Boxes>
       {data.map((card, index) => (
         <Box key={index}>
-          <BoxNum>{card.number}</BoxNum>
+          <BoxName>
+            <a
+              style={{ textDecoration: "none", color: "white" }}
+              href={card.url}
+            >
+              {card.name}
+            </a>
+          </BoxName>
           <BoxText>{card.text}</BoxText>
         </Box>
       ))}

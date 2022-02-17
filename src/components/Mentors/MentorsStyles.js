@@ -23,7 +23,7 @@ export const Boxes = styled.div`
 `;
 
 export const Box = styled.div`
-  background: #212d45;
+  background: #1a5b55;
   border-radius: 12px;
   height: 230px;
   padding: 24px;
@@ -45,14 +45,15 @@ export const Box = styled.div`
     }
   }
 `;
-export const BoxNum = styled.h5`
+export const BoxName = styled.h5`
   font-style: normal;
   font-weight: 600;
   font-size: 36px;
   line-height: 40px;
   letter-spacing: 0.01em;
-  color: #ffffff;
+  color: white !important;
   margin-bottom: 8px;
+  text-decoration: none !important;
 
   @media ${(props) => props.theme.breakpoints.md} {
     font-size: 28px;
@@ -70,7 +71,7 @@ export const BoxText = styled.p`
   font-size: 18px;
   line-height: 24px;
   letter-spacing: 0.02em;
-  color: rgba(255, 255, 255, 0.75);
+  color: #9cc9e3;
 
   @media ${(props) => props.theme.breakpoints.md} {
     font-size: 16px;

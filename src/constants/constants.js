@@ -87,13 +87,23 @@ export const TimeLineData = [
 
 export const data = [
   {
-    number: "Damien Kan",
+    name: "Damien Kan",
+    url: `http://damienkan.com/`,
     text: "Founding team at Alto. Co-founded Shogun, Kin.",
   },
-  { number: "Claudio Wilson", text: "Senior Software Engineer at AirBnb." },
   {
-    number: "Madison Kanna",
-    text: "Founder, CodeBookClub. UI Engineer at Showcase IDX.",
+    name: "Claudio Wilson",
+    url: `https://www.linkedin.com/in/claudio-wilson-7a983630/`,
+    text: "Senior Software Engineer at AirBnb.",
   },
-  { number: "Albert Padin", text: "Co-Founder and CTO at Symph." },
+  {
+    name: "Madison Kanna",
+    url: "https://madisonkanna.com/",
+    text: `Founder, CodeBookClub. UI Engineer at Showcase IDX.`,
+  },
+  {
+    name: "Albert Padin",
+    url: "https://www.linkedin.com/in/albertpadin/",
+    text: `Google Developer Expert. Co-Founder and CTO at Symph.`,
+  },
 ];
