@@ -8,9 +8,9 @@ import {
   SectionTitle,
   SectionText,
 } from "../../styles/GlobalComponents";
-import { Box, Boxes, BoxNum, BoxText } from "./AcomplishmentsStyles";
+import { Box, Boxes, BoxNum, BoxText } from "./MentorsStyles";
 
-const Acomplishments = () => (
+const Mentors = () => (
   <Section>
     <SectionTitle>My Mentors</SectionTitle>
     <SectionText>
@@ -30,4 +30,4 @@ const Acomplishments = () => (
   </Section>
 );
 
-export default Acomplishments;
+export default Mentors;

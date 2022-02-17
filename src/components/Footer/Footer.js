@@ -6,6 +6,7 @@ import {
 } from "react-icons/ai";
 import { GrSoundcloud, GrTwitter } from "react-icons/gr";
 import { SocialIcons } from "../Header/HeaderStyles";
+import ContactForm from "./FooterForm";
 import {
   CompanyContainer,
   FooterWrapper,
@@ -14,6 +15,7 @@ import {
   LinkList,
   LinkTitle,
   Slogan,
+  FooterFormContainer,
   SocialContainer,
   SocialIconsContainer,
 } from "./FooterStyles";
@@ -40,6 +42,9 @@ const Footer = () => {
             feature that needs building, or a project that needs coding, look no
             further - I'm your guy!
           </Slogan>
+          <FooterFormContainer>
+            <ContactForm />
+          </FooterFormContainer>
         </CompanyContainer>
         <SocialIcons href='https://www.linkedin.com/in/nikolas-escobal/'>
           <AiFillLinkedin size='3rem'></AiFillLinkedin>

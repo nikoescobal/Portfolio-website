@@ -1,4 +1,4 @@
-import Acomplishments from "../components/Acomplishments/Acomplishments";
+import Mentors from "../components/Mentors/Mentors";
 import BgAnimation from "../components/BackgroundAnimation/BackgroundAnimation";
 import Hero from "../components/Hero/Hero";
 import Projects from "../components/Projects/Projects";
@@ -17,7 +17,7 @@ const Home = () => {
       <Projects />
       <Technologies />
       <Timeline />
-      <Acomplishments />
+      <Mentors />
     </Layout>
   );
 };
