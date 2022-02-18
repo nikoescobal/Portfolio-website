@@ -29,7 +29,7 @@ const Hero = () => (
           (window.location = "mailto:niko@nikoescobal.com?subject=Hey Niko!")
         }
       >
-        Hire Me!
+        Let's Jam!
       </Button>
     </LeftSection>
   </Section>
