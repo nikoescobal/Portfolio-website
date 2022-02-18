@@ -24,6 +24,8 @@ const Mentors = () => (
         <Box key={index}>
           <BoxName>
             <a
+              target='_blank'
+              rel='noopener noreferrer'
               style={{ textDecoration: "none", color: "white" }}
               href={card.url}
             >
