@@ -2,7 +2,7 @@ export const projects = [
   {
     title: "Rentcopter",
     description:
-      "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS. Visit site: ",
+      "Fully responsive full-stack application with frontend built with React and API/backend built with Rails. In this project, users can view and reserve helicopters for hire/rent. It features authentication with JWT. Built with: Ruby, Rails, React, PostgreSQL, Tailwind CSS.",
     image: "/images/rentcopter.jpeg",
     tags: ["React", "Rails", "Tailwind", "PG"],
     source: "https://github.com/nikoescobal/rentcopter",
@@ -65,23 +65,23 @@ export const projects = [
 export const TimeLineData = [
   {
     year: 2015,
-    text: "Delved into the world of tech startups and founded my first startup.",
+    text: "Delved into the world of startups and founded a startup committed to making daily commute easier.",
   },
   {
     year: 2016,
-    text: "Worked as a consultant for startups in fintech and AI.",
+    text: "Simultaneously ran my startup while working as a consultant for startups in fintech and AI.",
+  },
+  {
+    year: 2019,
+    text: "Took a giant leap of faith - quit my second startup, and began my career shift into tech.",
   },
   {
     year: 2020,
-    text: "Took a leap of faith - quit my startup and started my career shift into tech.",
-  },
-  {
-    year: 2020,
-    text: "Started learning how to code and was accepted into Microverse, a global and online coding school.",
+    text: "Started learning how to code and was accepted into Microverse, a YC-backed, global, online coding school.",
   },
   {
     year: 2022,
-    text: "Built multiple projects, completed the program, and started freelancing.",
+    text: "Built multiple projects, completed the program, continued learning new technologies, and started freelancing.",
   },
 ];
 

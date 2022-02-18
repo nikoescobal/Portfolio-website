@@ -52,13 +52,25 @@ const Header = () => (
       </li>
     </Div2>
     <Div3>
-      <SocialIcons href='https://github.com/nikoescobal'>
+      <SocialIcons
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://github.com/nikoescobal'
+      >
         <AiFillGithub size='3rem'></AiFillGithub>
       </SocialIcons>
-      <SocialIcons href='https://www.linkedin.com/in/nikolas-escobal/'>
+      <SocialIcons
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://www.linkedin.com/in/nikolas-escobal/'
+      >
         <AiFillLinkedin size='3rem'></AiFillLinkedin>
       </SocialIcons>
-      <SocialIcons href='https://soundcloud.com/nikoesco'>
+      <SocialIcons
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://soundcloud.com/nikoesco'
+      >
         <GrSoundcloud size='3rem'></GrSoundcloud>
       </SocialIcons>
     </Div3>

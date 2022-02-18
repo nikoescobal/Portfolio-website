@@ -28,7 +28,10 @@ const Projects = () => (
       {projects.map(
         ({ id, image, title, description, tags, source, visit }) => (
           <BlogCard key={id}>
-            <Img src={image} />
+            <a target='_blank' rel='noopener noreferrer' href={visit}>
+              <Img src={image} />
+            </a>
+
             <div>
               <TitleContent>
                 <HeaderThree title>{title}</HeaderThree>
@@ -44,8 +47,20 @@ const Projects = () => (
               </TagList>
             </div>
             <UtilityList>
-              <ExternalLinks href={visit}>Code</ExternalLinks>
-              <ExternalLinks href={source}>Source</ExternalLinks>
+              <ExternalLinks
+                target='_blank'
+                rel='noopener noreferrer'
+                href={visit}
+              >
+                Live
+              </ExternalLinks>
+              <ExternalLinks
+                target='_blank'
+                rel='noopener noreferrer'
+                href={source}
+              >
+                Source
+              </ExternalLinks>
             </UtilityList>
           </BlogCard>
         )

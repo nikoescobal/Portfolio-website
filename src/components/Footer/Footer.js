@@ -24,11 +24,21 @@ const Footer = () => {
       <LinkList>
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
-          <LinkItem href='mobile:+1-415-805-6767'>+1-415-805-6767</LinkItem>
+          <LinkItem
+            target='_blank'
+            rel='noopener noreferrer'
+            href='mobile:+1-415-805-6767'
+          >
+            +1-415-805-6767
+          </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
-          <LinkItem href='mailto:niko@nikoescobal.com'>
+          <LinkItem
+            target='_blank'
+            rel='noopener noreferrer'
+            href='mailto:niko@nikoescobal.com'
+          >
             niko@nikoescobal.com
           </LinkItem>
         </LinkColumn>
@@ -36,18 +46,30 @@ const Footer = () => {
       <CompanyContainer>
         <Slogan>
           If you have an application you're interested in developing, a feature
-          that needs building, or a project that needs coding, look no further -
-          I'm your guy!
+          that needs building, or a project that needs coding, feel free to hit
+          me up! Always happy to chat and explore opportunities!
         </Slogan>
       </CompanyContainer>
       <SocialIconsContainer>
-        <SocialIcons href='https://www.linkedin.com/in/nikolas-escobal/'>
+        <SocialIcons
+          target='_blank'
+          rel='noopener noreferrer'
+          href='https://www.linkedin.com/in/nikolas-escobal/'
+        >
           <AiFillLinkedin size='3rem'></AiFillLinkedin>
         </SocialIcons>
-        <SocialIcons href='https://nikoescobal.medium.com/'>
+        <SocialIcons
+          target='_blank'
+          rel='noopener noreferrer'
+          href='https://nikoescobal.medium.com/'
+        >
           <AiFillMediumCircle size='3rem'></AiFillMediumCircle>
         </SocialIcons>
-        <SocialIcons href='https://twitter.com/nikoescobal'>
+        <SocialIcons
+          target='_blank'
+          rel='noopener noreferrer'
+          href='https://twitter.com/nikoescobal'
+        >
           <GrTwitter size='3rem'></GrTwitter>
         </SocialIcons>
       </SocialIconsContainer>

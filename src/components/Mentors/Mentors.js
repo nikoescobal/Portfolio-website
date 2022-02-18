@@ -14,10 +14,10 @@ const Mentors = () => (
   <Section>
     <SectionTitle>My Mentors</SectionTitle>
     <SectionText>
-      Being immersed in an intensive course is great, but sometimes you need
-      other perspectives on programming, career, and life in general. So I took
-      it upon myself to find brilliant people that could mentor me. Here they
-      are:
+      While being in an intensive program was crucial to my growth, I could only
+      do so much alone. This is why I found brilliant and inspiring people who
+      would mentor and guide me, not only in programming, but in matters
+      relating to career and life as well.
     </SectionText>
     <Boxes>
       {data.map((card, index) => (

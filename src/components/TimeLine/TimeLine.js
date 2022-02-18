@@ -67,14 +67,15 @@ const Timeline = () => {
     <Section id='about'>
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        I began my quest to learn to software development in June, 2020 when I
-        got accepted into Microverse, a global coding school. I left this
-        program as a world class beginner. Since then, I have grown a tremendous
-        amount by working on a variety of projects. By surrounding myself with
-        some of the most intelligent, passionate, and hard working people in the
-        field, I was able to learn an astounding amount. I am a voracious and
-        tireless learner, and I am eager to continue growing my knowledge of
-        software so I can become a great developer.{" "}
+        My journey in software development started in mid 2020 when I got
+        accepted into Microverse, a YC-backed global coding school. I left the
+        program a world-class novice. Ever since, I've continued to grow by
+        working on a variety of projects. By surrounding myself with some of the
+        most intelligent, passionate, and hard working people in the field, I
+        was able to learn an astonishing amount. I continue to apply the
+        lessons, experiences, and values I've gained from startups, such as
+        grit, agility, and having a growth mindset as I ceaselessly strive to
+        become a great developer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>

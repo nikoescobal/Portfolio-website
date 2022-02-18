@@ -103,6 +103,8 @@ export const TagList = styled.ul`
   padding: 2rem;
 =`;
 export const Tag = styled.li`
-  color: #9cc9e3;
+  background-color: #00dbd8;
+  border-radius: 3%;
+  color: #1a5b55;
   font-size: 1.5rem;
 `;

@@ -24,6 +24,10 @@ const Hero = () => (
         React and Rails enthusiast with an eye for good design. I love
         meaningful tech, making music, learning new things, and sushi.
       </SectionText>
+      <SectionText>
+        Multi-skilled full-stack developer with hands-on experience in
+        developing, and cofounding tech startups.
+      </SectionText>
       <Button
         onClick={() =>
           (window.location = "mailto:niko@nikoescobal.com?subject=Hey Niko!")
