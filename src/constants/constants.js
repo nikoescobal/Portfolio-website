@@ -90,20 +90,24 @@ export const data = [
     name: "Damien Kan",
     url: `http://damienkan.com/`,
     text: "Founding team at Alto. Co-founded Shogun, Kin.",
+    company: `https://kinhabits.com/`,
   },
   {
     name: "Claudio Wilson",
     url: `https://www.linkedin.com/in/claudio-wilson-7a983630/`,
     text: "Senior Software Engineer at AirBnb.",
+    company: `https://www.airbnb.com/`,
   },
   {
     name: "Madison Kanna",
     url: "https://madisonkanna.com/",
     text: `Founder, CodeBookClub. UI Engineer at Showcase IDX.`,
+    company: `https://showcaseidx.com/`,
   },
   {
     name: "Albert Padin",
     url: "https://www.linkedin.com/in/albertpadin/",
     text: `Google Developer Expert. Co-Founder and CTO at Symph.`,
+    company: `https://www.symph.co/`,
   },
 ];

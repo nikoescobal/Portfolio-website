@@ -32,7 +32,16 @@ const Mentors = () => (
               {card.name}
             </a>
           </BoxName>
-          <BoxText>{card.text}</BoxText>
+          <BoxText>
+            <a
+              target='_blank'
+              rel='noopener noreferrer'
+              style={{ textDecoration: "none", color: "#9cc9e3" }}
+              href={card.company}
+            >
+              {card.text}
+            </a>
+          </BoxText>
         </Box>
       ))}
     </Boxes>
