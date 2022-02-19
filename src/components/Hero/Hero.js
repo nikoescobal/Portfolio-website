@@ -21,7 +21,7 @@ const Hero = () => (
         Full Stack Dev. Musician.
       </SectionTitle>
       <SectionText>
-        React and Rails enthusiast with an eye for good design. I love
+        React and Rails enthusiast with a keen eye for good design. I love
         meaningful tech, making music, learning new things, and sushi.
       </SectionText>
       <SectionText>

@@ -68,14 +68,17 @@ const Timeline = () => {
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
         My journey in software development started in mid 2020 when I got
-        accepted into Microverse, a YC-backed global coding school. I left the
-        program a world-class novice. Ever since, I've continued to grow by
-        working on a variety of projects. By surrounding myself with some of the
-        most intelligent, passionate, and hard working people in the field, I
-        was able to learn an astonishing amount. I continue to apply the
-        lessons, experiences, and values I've gained from startups, such as
-        grit, agility, and having a growth mindset as I ceaselessly strive to
-        become a great developer.
+        accepted into Microverse, a YC-backed, global, online coding school. I
+        left the program a world-class novice, with significant experience in
+        remote collaboration. Ever since, I've continued to grow by working on a
+        variety of projects.
+      </SectionText>
+      <SectionText>
+        By surrounding myself with some of the most intelligent, passionate, and
+        hard working people in the field, I was able to learn an astonishing
+        amount. I continue to apply the lessons, experiences, and values I've
+        gained from startups, such as grit, agility, and having a growth mindset
+        as I ceaselessly strive to become a great developer.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
