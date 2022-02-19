@@ -81,8 +81,9 @@ const Timeline = () => {
         as I ceaselessly strive to become a great developer.
       </SectionText>
       <SectionText>
-        Aside from programming, I enjoy spending my time making music, reading,
-        watching anime, and making moments count with friends and family.
+        Aside from coding, I love learning new things, making music with my
+        plethora of instruments, scuba diving, reading manga/watching anime, and
+        enjoying a delicious meal with friends and family.
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
