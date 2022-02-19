@@ -80,6 +80,10 @@ const Timeline = () => {
         gained from startups, such as grit, agility, and having a growth mindset
         as I ceaselessly strive to become a great developer.
       </SectionText>
+      <SectionText>
+        Aside from programming, I enjoy spending my time making music, reading,
+        watching anime, and making moments count with friends and family.
+      </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
           {TimeLineData.map((item, index) => (
