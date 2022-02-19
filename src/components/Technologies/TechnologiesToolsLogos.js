@@ -17,7 +17,7 @@ const TechnologiesToolsLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Agit'
+        href='https://git-scm.com/about'
       >
         <img
           alt='Git'

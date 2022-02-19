@@ -6,7 +6,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Arails'
+        href='https://rubyonrails.org/'
       >
         <img
           alt='Rails'
@@ -16,18 +16,14 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Asqlite'
+        href='https://www.sqlite.org/'
       >
         <img
           alt='Sqlite'
           src='https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white'
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Amysql'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://graphql.org/'>
         <img
           alt='Graphql'
           src='https://img.shields.io/badge/GraphQL-e535ab?style=for-the-badge&logo=graphql&logoColor=white
@@ -38,7 +34,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Afirebase'
+        href='https://firebase.google.com/'
       >
         <img
           alt='Firebase'
@@ -50,7 +46,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Apostgresql'
+        href='https://www.postgresql.org/'
       >
         <img
           alt='Postgresql'
@@ -61,7 +57,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Amaterial%3Aruby'
+        href='https://www.ruby-lang.org/en/'
       >
         <img
           alt='Ruby'
@@ -72,7 +68,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Amaterial%3Aheroku'
+        href='https://www.heroku.com/'
       >
         <img
           alt='Heroku'
@@ -83,7 +79,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Anetlify'
+        href='https://www.netlify.com/'
       >
         <img
           alt='Netlify'
@@ -91,11 +87,7 @@ const TechnologiesBackEndLogos = () => {
 '
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Anodejs'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://nodejs.org/'>
         <img
           alt='Nodejs'
           src='https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white
@@ -106,7 +98,7 @@ const TechnologiesBackEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Amysql'
+        href='https://www.mysql.com/'
       >
         <img
           alt='Mysql'

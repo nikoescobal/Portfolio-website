@@ -6,7 +6,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Ahtml'
+        href='https://html.com/html5/'
       >
         <img
           alt='HTML'
@@ -16,7 +16,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Acss'
+        href='https://www.w3.org/Style/CSS/Overview.en.html'
       >
         <img
           alt='CSS'
@@ -26,7 +26,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Asass'
+        href='https://sass-lang.com/'
       >
         <img
           alt='Sass'
@@ -38,7 +38,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Abootstrap'
+        href='https://getbootstrap.com/'
       >
         <img
           alt='Bootstrap'
@@ -49,7 +49,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Amaterial%3Adesign'
+        href='https://material.io/design'
       >
         <img
           alt='Material Design'
@@ -57,11 +57,7 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Areact'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://reactjs.org/'>
         <img
           alt='React'
           src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
@@ -71,7 +67,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Atailwind'
+        href='https://tailwindcss.com/'
       >
         <img
           alt='Tailwind'
@@ -79,11 +75,7 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Astyled%3Ababel'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://babeljs.io/'>
         <img
           alt='Babel'
           src='https://img.shields.io/badge/Babel-eccc04?style=for-the-badge&logo=babel&logoColor=white
@@ -93,7 +85,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Ajavascript'
+        href='https://www.javascript.com/'
       >
         <img
           alt='JavaScript'
@@ -103,7 +95,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Awebpack'
+        href='https://webpack.js.org/'
       >
         <img
           alt='Webpack'
@@ -113,7 +105,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Agatsby'
+        href='https://www.gatsbyjs.com/'
       >
         <img
           alt='Gatsby'
@@ -124,7 +116,7 @@ const TechnologiesFrontEndLogos = () => {
       <a
         target='_blank'
         rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Astyled%3Acomponents'
+        href='https://www.styled-components.com/'
       >
         <img
           alt='Styled Components'
@@ -132,22 +124,14 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Anext'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://nextjs.org/'>
         <img
           alt='Next'
           src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white
 '
         />
       </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://github.com/search?q=user%3Anikoescobal+language%3Aredux'
-      >
+      <a target='_blank' rel='noopener noreferrer' href='https://redux.js.org/'>
         <img
           alt='Redux'
           src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
