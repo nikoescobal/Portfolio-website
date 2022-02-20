@@ -32,7 +32,7 @@ export const Box = styled.div`
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
-    height: 150px;
+    height: 250px;
     padding: 16px;
   }
 
