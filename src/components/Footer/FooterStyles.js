@@ -55,7 +55,7 @@ export const SocialIconsContainer = styled.div`
   @media ${(props) => props.theme.breakpoints.sm} {
     display: flex;
     width: 100%;
-    flex-direction: column;
+    flex-direction: row;
   }
 `;
 
@@ -66,13 +66,13 @@ export const CompanyContainer = styled.div`
   margin-right: auto;
 
   @media ${(props) => props.theme.breakpoints.md} {
-    flex-direction: column;
+    flex-direction: row;
     align-items: baseline;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     margin: 0 0 32px;
     align-items: center;
   }
