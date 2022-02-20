@@ -3,6 +3,45 @@ import React from "react";
 const TechnologiesToolsLogos = () => {
   return (
     <div>
+      <a target='_blank' rel='noopener noreferrer' href='https://slack.com/'>
+        <img
+          alt='Slack'
+          src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://jestjs.io/'>
+        <img
+          alt='Jest'
+          src='https://img.shields.io/badge/Jest-9d475f?style=for-the-badge&logo=jest&logoColor=white'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://gitlab.com/'>
+        <img
+          alt='Gitlab'
+          src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
+'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://postman.com/'>
+        <img
+          alt='Postman'
+          src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
+'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://zoom.us/'>
+        <img
+          alt='Zoom'
+          src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://codepen.com/'>
+        <img
+          alt='Codepen'
+          src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
+'
+        />
+      </a>
       <a
         target='_blank'
         rel='noopener noreferrer'
@@ -25,25 +64,7 @@ const TechnologiesToolsLogos = () => {
 '
         />
       </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://slack.com/'>
-        <img
-          alt='Slack'
-          src='https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://jestjs.io/'>
-        <img
-          alt='Jest'
-          src='https://img.shields.io/badge/Jest-9d475f?style=for-the-badge&logo=jest&logoColor=white'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://gitlab.com/'>
-        <img
-          alt='Gitlab'
-          src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
-'
-        />
-      </a>
+
       <a target='_blank' rel='noopener noreferrer' href='https://rspec.info/'>
         <img
           alt='Rspec'
@@ -66,26 +87,6 @@ const TechnologiesToolsLogos = () => {
         <img
           alt='Github'
           src='https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
-'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://postman.com/'>
-        <img
-          alt='Postman'
-          src='https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white
-'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://zoom.us/'>
-        <img
-          alt='Zoom'
-          src='https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://codepen.com/'>
-        <img
-          alt='Codepen'
-          src='https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white
 '
         />
       </a>

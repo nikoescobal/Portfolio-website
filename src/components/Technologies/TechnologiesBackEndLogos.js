@@ -3,6 +3,17 @@ import React from "react";
 const TechnologiesBackEndLogos = () => {
   return (
     <div>
+      <a
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://www.vercel.com/'
+      >
+        <img
+          alt='Vercel'
+          src='https://img.shields.io/badge/Vercel-00C7B7?style=for-the-badge&logo=vercel&logoColor=white
+'
+        />
+      </a>
       <a target='_blank' rel='noopener noreferrer' href='https://graphql.org/'>
         <img
           alt='Graphql'
