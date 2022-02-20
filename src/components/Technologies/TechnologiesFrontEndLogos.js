@@ -57,31 +57,6 @@ const TechnologiesFrontEndLogos = () => {
 '
         />
       </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://reactjs.org/'>
-        <img
-          alt='React'
-          src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-'
-        />
-      </a>
-      <a
-        target='_blank'
-        rel='noopener noreferrer'
-        href='https://tailwindcss.com/'
-      >
-        <img
-          alt='Tailwind'
-          src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
-'
-        />
-      </a>
-      <a target='_blank' rel='noopener noreferrer' href='https://babeljs.io/'>
-        <img
-          alt='Babel'
-          src='https://img.shields.io/badge/Babel-eccc04?style=for-the-badge&logo=babel&logoColor=white
-'
-        />
-      </a>
       <a
         target='_blank'
         rel='noopener noreferrer'
@@ -102,6 +77,25 @@ const TechnologiesFrontEndLogos = () => {
           src='https://img.shields.io/badge/Webpack-8ccbf3?style=for-the-badge&logo=webpack&logoColor=white'
         />
       </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://reactjs.org/'>
+        <img
+          alt='React'
+          src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
+'
+        />
+      </a>
+      <a
+        target='_blank'
+        rel='noopener noreferrer'
+        href='https://tailwindcss.com/'
+      >
+        <img
+          alt='Tailwind'
+          src='https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
+'
+        />
+      </a>
+
       <a
         target='_blank'
         rel='noopener noreferrer'
@@ -135,6 +129,13 @@ const TechnologiesFrontEndLogos = () => {
         <img
           alt='Redux'
           src='https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white
+'
+        />
+      </a>
+      <a target='_blank' rel='noopener noreferrer' href='https://babeljs.io/'>
+        <img
+          alt='Babel'
+          src='https://img.shields.io/badge/Babel-eccc04?style=for-the-badge&logo=babel&logoColor=white
 '
         />
       </a>
