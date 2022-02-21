@@ -4,6 +4,7 @@ import {
   AiFillLinkedin,
   AiFillMediumCircle,
 } from "react-icons/ai";
+import { FaAngellist } from "react-icons/fa";
 import { GrSoundcloud, GrTwitter } from "react-icons/gr";
 import { SocialIcons } from "../Header/HeaderStyles";
 import {
@@ -54,9 +55,9 @@ const Footer = () => {
         <SocialIcons
           target='_blank'
           rel='noopener noreferrer'
-          href='https://www.linkedin.com/in/nikolas-escobal/'
+          href='https://angel.co/u/niko-escobal'
         >
-          <AiFillLinkedin size='3rem'></AiFillLinkedin>
+          <FaAngellist size='3rem'></FaAngellist>
         </SocialIcons>
         <SocialIcons
           target='_blank'
