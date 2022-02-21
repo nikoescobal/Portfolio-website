@@ -37,9 +37,9 @@ const Footer = () => {
           <LinkItem
             target='_blank'
             rel='noopener noreferrer'
-            href='mailto:niko@nikoescobal.com'
+            href='mailto:hey@nikoescobal.com'
           >
-            niko@nikoescobal.com
+            hey@nikoescobal.com
           </LinkItem>
         </LinkColumn>
       </LinkList>

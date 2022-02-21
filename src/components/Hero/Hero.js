@@ -30,7 +30,7 @@ const Hero = () => (
       </SectionText>
       <Button
         onClick={() =>
-          (window.location = "mailto:niko@nikoescobal.com?subject=Hey Niko!")
+          (window.location = "mailto:hey@nikoescobal.com?subject=Hey Niko!")
         }
       >
         Let's Jam!
