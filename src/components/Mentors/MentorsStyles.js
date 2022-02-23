@@ -3,14 +3,14 @@ import styled from "styled-components";
 export const Boxes = styled.div`
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(4, 1fr);
   gap: 24px;
   margin: 24px 0 40px;
 
   @media ${(props) => props.theme.breakpoints.md} {
     gap: 16px;
     margin: 20px 0 32px;
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
@@ -25,21 +25,20 @@ export const Boxes = styled.div`
 export const Box = styled.div`
   background: #1a5b55;
   border-radius: 12px;
-  height: 180px;
+  height: 260px;
   padding: 24px;
   @media ${(props) => props.theme.breakpoints.lg} {
-    height: 185px;
+    height: 265px;
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
-    height: 220px;
+    height: 250px;
     padding: 16px;
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
     height: 150px;
     padding: 12px;
-    min-width: auto;
 
     &:nth-child(2n) {
       grid-row: 2;
