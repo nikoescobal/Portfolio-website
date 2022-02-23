@@ -99,6 +99,12 @@ export const data = [
     company: `https://www.airbnb.com/`,
   },
   {
+    name: "Timothy Chu",
+    url: "https://timchu.github.io/",
+    text: `MIT, ex-Google engineer, CMU Phd`,
+    company: `https://google.com/`,
+  },
+  {
     name: "Madison Kanna",
     url: "https://madisonkanna.com/",
     text: `Founder, CodeBookClub. UI Engineer at Showcase IDX.`,
