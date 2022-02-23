@@ -116,4 +116,10 @@ export const data = [
     text: `Google Developer Expert. Co-Founder and CTO at Symph.`,
     company: `https://www.symph.co/`,
   },
+  {
+    name: "Paolo Samontanez",
+    url: "https://sg.linkedin.com/in/paolo-samontanez",
+    text: `AI Expert. Co-Founder and CTO at OneWatt.`,
+    company: `https://www.onewatt.eu/`,
+  },
 ];
