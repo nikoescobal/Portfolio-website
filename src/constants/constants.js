@@ -101,7 +101,7 @@ export const data = [
   {
     name: "Timothy Chu",
     url: "https://timchu.github.io/",
-    text: `MIT, ex-Google engineer, CMU Phd`,
+    text: `MIT, ex-Google Software Engineer, CMU PhD`,
     company: `https://google.com/`,
   },
   {
@@ -119,7 +119,7 @@ export const data = [
   {
     name: "Paolo Samontanez",
     url: "https://sg.linkedin.com/in/paolo-samontanez",
-    text: `AI Expert. Co-Founder and CTO at OneWatt.`,
+    text: `AI & Machine Learning Expert. Co-Founder and CTO at OneWatt.`,
     company: `https://www.onewatt.eu/`,
   },
 ];
