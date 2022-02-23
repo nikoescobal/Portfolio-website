@@ -25,14 +25,14 @@ export const Boxes = styled.div`
 export const Box = styled.div`
   background: #1a5b55;
   border-radius: 12px;
-  height: 260px;
+  height: 140px;
   padding: 24px;
   @media ${(props) => props.theme.breakpoints.lg} {
-    height: 265px;
+    height: 140px;
   }
 
   @media ${(props) => props.theme.breakpoints.md} {
-    height: 250px;
+    height: 180px;
     padding: 16px;
   }
 
