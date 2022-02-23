@@ -42,7 +42,7 @@ export const Box = styled.div`
     min-width: auto;
 
     &:nth-child(2n) {
-      grid-row: 2;
+      grid-row: 3;
     }
   }
 `;
