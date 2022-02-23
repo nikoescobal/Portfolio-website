@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const Boxes = styled.div`
   width: 100%;
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   gap: 24px;
   margin: 24px 0 40px;
 
@@ -17,7 +17,7 @@ export const Boxes = styled.div`
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 10px;
-    max-width: 500px;
+    max-width: 520px;
     margin: 24px auto;
   }
 `;
@@ -37,7 +37,7 @@ export const Box = styled.div`
   }
 
   @media ${(props) => props.theme.breakpoints.sm} {
-    height: 120px;
+    height: 150px;
     padding: 12px;
 
     &:nth-child(2n) {
