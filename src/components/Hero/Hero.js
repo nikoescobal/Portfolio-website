@@ -18,7 +18,7 @@ const Hero = () => (
           width='28'
         />
         <br />
-        Full Stack Dev. Musician.
+        Full Stack Dev. Founder. Musician.
       </SectionTitle>
       <SectionText>
         React and Rails enthusiast with a keen eye for good design. I love
