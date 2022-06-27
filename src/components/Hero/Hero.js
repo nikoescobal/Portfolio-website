@@ -14,15 +14,16 @@ const Hero = () => (
       <SectionTitle main center>
         Hey there, I'm Niko{" "}
         <img
-          src='https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif'
-          width='28'
+          src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+          width="28"
         />
         <br />
         Full Stack Dev. Founder. Musician.
       </SectionTitle>
       <SectionText>
         React and Rails enthusiast with a keen eye for good design. I love
-        meaningful tech, making music, learning new things, and sushi.
+        meaningful tech, making music, learning new things, and sushi. Aspiring
+        Clojurist.
       </SectionText>
       <SectionText>
         Multi-skilled full-stack developer with hands-on experience in

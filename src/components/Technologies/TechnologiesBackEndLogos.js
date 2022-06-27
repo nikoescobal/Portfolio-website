@@ -6,6 +6,17 @@ const TechnologiesBackEndLogos = () => {
       <a
         target="_blank"
         rel="noopener noreferrer"
+        href="https://www.clojure.org/"
+      >
+        <img
+          alt="Clojure"
+          src="https://img.shields.io/badge/Clojure-91DC47?style=for-the-badge&logo=clojure&logoColor=white
+"
+        />
+      </a>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
         href="https://www.vercel.com/"
       >
         <img

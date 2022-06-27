@@ -91,6 +91,13 @@ const TechnologiesToolsLogos = () => {
 "
         />
       </a>
+      <a target="_blank" rel="noopener noreferrer" href="https://vim.org/">
+        <img
+          alt="Vim"
+          src="https://img.shields.io/badge/Vim-7EBF50?style=for-the-badge&logo=vim&logoColor=white
+"
+        />
+      </a>
     </div>
   );
 };
