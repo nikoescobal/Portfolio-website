@@ -26,19 +26,19 @@ const Footer = () => {
         <LinkColumn>
           <LinkTitle>Call</LinkTitle>
           <LinkItem
-            target='_blank'
-            rel='noopener noreferrer'
-            href='mobile:+1-415-805-6767'
+            target="_blank"
+            rel="noopener noreferrer"
+            href="mobile:+63-905-304-5922"
           >
-            +1-415-805-6767
+            +63-905-304-5922
           </LinkItem>
         </LinkColumn>
         <LinkColumn>
           <LinkTitle>Email</LinkTitle>
           <LinkItem
-            target='_blank'
-            rel='noopener noreferrer'
-            href='mailto:hey@nikoescobal.com'
+            target="_blank"
+            rel="noopener noreferrer"
+            href="mailto:hey@nikoescobal.com"
           >
             hey@nikoescobal.com
           </LinkItem>
@@ -53,25 +53,25 @@ const Footer = () => {
       </CompanyContainer>
       <SocialIconsContainer>
         <SocialIcons
-          target='_blank'
-          rel='noopener noreferrer'
-          href='https://angel.co/u/niko-escobal'
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://angel.co/u/niko-escobal"
         >
-          <FaAngellist size='3rem'></FaAngellist>
+          <FaAngellist size="3rem"></FaAngellist>
         </SocialIcons>
         <SocialIcons
-          target='_blank'
-          rel='noopener noreferrer'
-          href='https://nikoescobal.medium.com/'
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://nikoescobal.medium.com/"
         >
-          <AiFillMediumCircle size='3rem'></AiFillMediumCircle>
+          <AiFillMediumCircle size="3rem"></AiFillMediumCircle>
         </SocialIcons>
         <SocialIcons
-          target='_blank'
-          rel='noopener noreferrer'
-          href='https://twitter.com/nikoescobal'
+          target="_blank"
+          rel="noopener noreferrer"
+          href="https://twitter.com/nikoescobal"
         >
-          <GrTwitter size='3rem'></GrTwitter>
+          <GrTwitter size="3rem"></GrTwitter>
         </SocialIcons>
       </SocialIconsContainer>
     </FooterWrapper>

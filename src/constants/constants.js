@@ -95,8 +95,8 @@ export const data = [
   {
     name: "Claudio Wilson",
     url: `https://www.linkedin.com/in/claudio-wilson-7a983630/`,
-    text: "Senior Software Engineer at AirBnb.",
-    company: `https://www.airbnb.com/`,
+    text: "Ex-AirBnb, Co-Founder and CTO at Nickel",
+    company: `https://www.getnickel.com/`,
   },
   {
     name: "Timothy Chu",
