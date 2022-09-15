@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 
 const TechnologiesToolsLogos = () => {
   return (
@@ -6,12 +6,11 @@ const TechnologiesToolsLogos = () => {
       <a
         target="_blank"
         rel="noopener noreferrer"
-        href="https://darkreader.org/"
+        href="https://github.com/tmux/tmux/wiki"
       >
         <img
-          alt="Dark Reader"
-          src="https://img.shields.io/badge/Dark_Reader-141E24?style=for-the-badge&logo=dark-reader&logoColor=white
-"
+          alt="Tmux"
+          src="https://img.shields.io/badge/Tmux-%1BB91F.svg?&style=for-the-badge&logo=tmux&logoColor=white"
         />
       </a>
       <a target="_blank" rel="noopener noreferrer" href="https://github.com/">
@@ -95,6 +94,37 @@ const TechnologiesToolsLogos = () => {
         <img
           alt="Vim"
           src="https://img.shields.io/badge/Vim-7EBF50?style=for-the-badge&logo=vim&logoColor=white
+"
+        />
+      </a>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://www.gnu.org/software/emacs/"
+      >
+        <img
+          alt="Emacs"
+          src="https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white"
+        />
+      </a>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://alacritty.org/"
+      >
+        <img
+          alt="Alacritty"
+          src="https://img.shields.io/badge/Alacritty-%F46D01.svg?&style=for-the-badge&logo=alacritty&logoColor=white"
+        />
+      </a>
+      <a
+        target="_blank"
+        rel="noopener noreferrer"
+        href="https://darkreader.org/"
+      >
+        <img
+          alt="Dark Reader"
+          src="https://img.shields.io/badge/Dark_Reader-141E24?style=for-the-badge&logo=dark-reader&logoColor=white
 "
         />
       </a>
