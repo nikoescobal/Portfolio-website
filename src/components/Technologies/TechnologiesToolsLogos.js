@@ -68,15 +68,6 @@ const TechnologiesToolsLogos = () => {
           src="https://img.shields.io/badge/Jest-9d475f?style=for-the-badge&logo=jest&logoColor=white"
         />
       </a>
-
-      {/* <a target='_blank' rel='noopener noreferrer' href='https://gitlab.com/'>
-        <img
-          alt='Gitlab'
-          src='https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white
-'
-        />
-      </a> */}
-
       <a target="_blank" rel="noopener noreferrer" href="https://zoom.us/">
         <img
           alt="Zoom"
